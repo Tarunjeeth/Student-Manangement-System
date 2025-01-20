@@ -36,4 +36,4 @@ The system allows users to:
 4. Update and modify existing student records as needed.
 5. Generate basic reports
 
-
+![Image](https://github.com/user-attachments/assets/7042cdf2-1a74-42a1-929d-fcf34a1cddcf)
